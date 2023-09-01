@@ -10,5 +10,4 @@ Most of the commands used in the project are mentioned in the .md files.
 This pipeline involves building of the job on the jenkins server and saving it in the playbook on the ansible server
 followed by its deployment on the web server for the end users to intercept.
 ---------------------------------------------------------------------------------------------------------------------
-A project by @MohanDave
 ---------------------------------------------------------------------------------------------------------------------
